@@ -15,5 +15,6 @@ print indices
 
 print nbrs.kneighbors_graph(X).toarray()
 
-
+#http://scikit-learn.org/stable/modules/neighbors.html
+#https://blog.csdn.net/gamer_gyt/article/details/51232210
 
